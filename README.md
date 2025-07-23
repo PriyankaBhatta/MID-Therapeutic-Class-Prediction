@@ -11,7 +11,7 @@ This project leverages a dataset comprising 192,807 rows from the Medicines Info
 
 * Jupyter notebooks for EDA, model training, and analysis.
 
-* Performance analysis, confusion matrix, visualizations, and video demo.
+* Performance analysis, confusion matrix, visualizations.
 
 * Python scripts for data preprocessing and model evaluation.
 
