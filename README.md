@@ -22,4 +22,6 @@ This project leverages a dataset comprising 192,807 rows from the Medicines Info
 * Weak Classes: ANTI NEOPLASTIC (0.94/0.78), OTHERS/STOMATOLOGICALS/VACCINES (F1=0 due to low samples)
 * Misclassifications: Occur between similar classes (e.g., GASTRO INTESTINA vs GASTRO INTESTINAL)
 
+## Kaggle Dataset Link: https://www.kaggle.com/datasets/imtkaggleteam/medical-information-dataset/data 
+
   
