@@ -21,3 +21,5 @@ This project leverages a dataset comprising 192,807 rows from the Medicines Info
 * Strong Classes: ANTI DIABETIC, ANTI INFECTIVES, CARDIAC, PAIN ANALGESICS, RESPIRATORY (precision/recall >0.95)
 * Weak Classes: ANTI NEOPLASTIC (0.94/0.78), OTHERS/STOMATOLOGICALS/VACCINES (F1=0 due to low samples)
 * Misclassifications: Occur between similar classes (e.g., GASTRO INTESTINA vs GASTRO INTESTINAL)
+
+  
